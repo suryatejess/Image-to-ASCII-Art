@@ -72,4 +72,4 @@ def asciiConvert(image, type, saveas, scale, theme='light'):
     art.close()
 
 if __name__ == '__main__':
-    asciiConvert("minecraft-529459.jpg", "jpg", "minecraft.txt", "3", 'dark')
+    asciiConvert("minecraft.jpg", "jpg", "minecraft.txt", "3", 'dark')
